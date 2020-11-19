@@ -1,6 +1,6 @@
 # k8s_manage
  
- clone this to you mac to manage distantly a k8s cluster
+ clone this to you mac to manage distantly a k8s cluster using Octant running locally
  
  ## prerequises
 * installed k8s cluster with ssh key configured for ssh remote access to master/control-plane
