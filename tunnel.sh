@@ -1,4 +1,4 @@
-CP=10.206.115.225
+CP=10.206.115.155
 scp ubuntu@${CP}:.kube/config kubeconfig
 export KUBECONFIG=$(pwd)/kubeconfig
 export OCTANT_PLUGIN_PATH=$(pwd)/octant/plugin
